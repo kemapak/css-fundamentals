@@ -36,6 +36,13 @@ I did not have a server set for this documentation since for CSS we do not need 
 your file system. I do recommend using Chrome browser by Google and check other browsers if you want. Safari is even I do
 love it has some issues and not very developer friendly.
 
+## Short history of CSS
+In old days we used to use `table` tags for page layout, `font` tags for fonts, and many more for some terrible stlying.
+Anything was better than a gray, boring browser screen. CSS can to rescue, and changed everything. In 1994 1st proposal
+for CSS standard was submitted. In 1996 CSS1 was published. CSS2 standard followed shortly in 1998, and finally in 2012
+CSS3 standard (in modules) was published. Nowadays browsers to update often to support the latest changes in CSS 
+standards.
+
 ## Browser Developer Tools Shortcut for Browsers
 ```command+option+I```
 

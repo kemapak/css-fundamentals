@@ -2,7 +2,7 @@
 
 This repository contains training classes for CSS fundamentals (CSS 3).
 
-The software engineer can through the examples to understand the concepts as well as the new features of JavaScript.
+The software engineer can through the examples to understand the concepts as well as the new features of CSS.
 
 Each section has a README file for more details about that specific topic of the language.
 
