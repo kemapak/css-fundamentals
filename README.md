@@ -6,7 +6,7 @@ The software engineer can through the examples to understand the concepts as wel
 
 Each section has a README file for more details about that specific topic of the language.
 
-You can use any modern Browser or install [Node JS](https://nodejs.org)
+You can use any modern Browser (Chrome is recommended).
 
 We will be using:
 - [The CSS Definitive Guide 5th Edition, by Eric Meyer and Estelle Weyl O"Reilly Press](https://www.oreilly.com/library/view/css-the-definitive/9781098117603/) Book learning the language.
