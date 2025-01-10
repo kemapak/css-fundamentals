@@ -1,0 +1,14 @@
+{
+  "name": "css-fundamentals",
+  "version": "1.0.0",
+  "description": "CSS training for software engineers.",
+  "keywords": [
+    "CSS",
+    "fundamentals",
+    "basics",
+    "training"
+  ],
+  "author": "Kem Apak",
+  "license": "MIT",
+  "private": true
+}
