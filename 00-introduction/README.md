@@ -23,8 +23,7 @@ My recommendation is most engineers do not write CSS but learn these framework w
 senior design team work with framework engineers to apply their design system to one of this layout frameworks.
 
 Said that some of us need to know CSS, so this document is for them. A solid knowledge of HTML and semantic HTML tags  
-is prerequisite for fully understand this documentation. **The only way we humans learn is by doing**, so make sure in 
-addition to reading please write code and look at the example in browsers developers tools.
+is prerequisite for fully understand this documentation. 
 
 I will have additional separate documentation how to build a basic CSS framework and even a separate document that talks
 about refactoring CSS.
@@ -40,11 +39,8 @@ love it has some issues and not very developer friendly.
 In old days we used to use `table` tags for page layout, `font` tags for fonts, and many more for some terrible stlying.
 Anything was better than a gray, boring browser screen. CSS can to rescue, and changed everything. In 1994 1st proposal
 for CSS standard was submitted. In 1996 CSS1 was published. CSS2 standard followed shortly in 1998, and finally in 2012
-CSS3 standard (in modules) was published. Nowadays browsers to update often to support the latest changes in CSS 
+CSS3 or level 3 standard (in modules) was published. Nowadays browsers to update often to support the latest changes in CSS 
 standards.
-
-## Browser Developer Tools Shortcut for Browsers
-```command+option+I```
 
 I hope you will enjoy learning CSS, and love the language as I do.
 
