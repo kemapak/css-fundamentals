@@ -18,6 +18,7 @@ Below are the main references that we will be following, I highly recommend you 
 
 - [The CSS Definitive Guide 5th Edition, by Eric Meyer and Estelle Weyl O"Reilly Press](https://www.oreilly.com/library/view/css-the-definitive/9781098117603/) Book learning the language.
 - [Mozilla Developer Network Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS) for API references.
+- [World Wide Web Consortium CSS Level 3 Standards]("https://www.w3.org/TR/css-syntax-3/").
 
 ## Table of Contents
 0. [Introduction](00-introduction/README.md)

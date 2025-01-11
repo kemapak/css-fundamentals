@@ -3,6 +3,7 @@
 CSS in other words, Cascading Style Sheets is one of member of web trinity along with HTML and JavaScript. These are the 
 core languages we use to create our web based application and sites. CSS is a programming language with a core purpose 
 and capability of styling our applications that use to create with markup languages like HTML, XML, MathML and so forth.
+CSS is the language that styles how our applications look!
 
 CSS is usually hated by web engineers because of its complex and mysterious behavior. It is very hard to build and fix 
 layouts, styles. That is mainly because the CSS of an application is build by people who does not understand and know
@@ -27,9 +28,6 @@ is prerequisite for fully understand this documentation.
 
 I will have additional separate documentation how to build a basic CSS framework and even a separate document that talks
 about refactoring CSS.
-
-CSS standards are maintained by [World Wide Web Consortium]("https://www.w3.org/TR/css-syntax-3/") All the 
-browsers support most of the core features.
 
 I did not have a server set for this documentation since for CSS we do not need one, and you can open the HTML files in 
 your file system. I do recommend using Chrome browser by Google and check other browsers if you want. Safari is even I do
