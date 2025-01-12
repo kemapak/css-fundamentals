@@ -1,6 +1,6 @@
 # Introduction
 
-## How to add CSS to HTML. 
+## How to add CSS to HTML
 CSS is a styling language that is applicable to markup languages like HTML.
 There are 3 (and 4th) ways we can add CSS to our HTML documents.
 
