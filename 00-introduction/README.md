@@ -1,6 +1,6 @@
 # Introduction
 
-# How to add CSS to HTML. 
+## How to add CSS to HTML. 
 CSS is a styling language that is applicable to markup languages like HTML.
 There are 3 (and 4th) ways we can add CSS to our HTML documents.
 
@@ -32,7 +32,30 @@ Check the [index.html](index.html) code for a live example.
 ```
 > Note: Imports must be the first statement in CSS otherwise it will not work!
 
+## CSS language structure
+CSS consist of **selectors** and **rules**. The selectors are the tags or group of tags that the styling does apply. The
+rules are the styling properties that do apply. _For example_: font colors, border, padding, margins, and so forth. The 
+structure is depicted below.
 
+```css
+selector {
+  property: value;
+  property: value;
+  ...
+}
+```
+
+Here is an example, we will discuss the details of the selectors and rules later in the future topics in detail. _For 
+example_:
+
+```css
+div {
+    color: red;
+    border: 1px;
+    padding: 2px 3px;
+    margin: 0 3px 1px 3px;
+}
+```
 
 ---
 [Go back to ToC](../README.md)
