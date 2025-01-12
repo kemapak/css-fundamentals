@@ -1,0 +1,9 @@
+h1 {
+    color: gray;
+}
+p  > span:first-child {
+    color: red;
+}
+p > span:last-child {
+    color: blue;
+}
