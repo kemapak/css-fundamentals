@@ -1,3 +1,5 @@
+/* This is block level comment. */
 footer {
     border: 2px dashed darkseagreen;
+    /*color: purple;*/
 }

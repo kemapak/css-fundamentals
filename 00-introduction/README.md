@@ -57,5 +57,17 @@ div {
 }
 ```
 
+## CSS comments
+CSS like any other language has comments which will be ignored when rendering. Said that there is only one type of 
+comment which **block level comment**. They **do not have** _line comments_ or _documentation comments_. _For example_:
+
+```css
+/* This is block level comment. */
+footer {
+    border: 2px dashed darkseagreen;
+    /*color: purple;*/
+}
+```
+
 ---
 [Go back to ToC](../README.md)
