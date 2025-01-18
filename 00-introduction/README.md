@@ -22,7 +22,7 @@ Check the [index.html](index.html) code for a live example.
     }
 </style>
 ```
-3. Add as a property to an HTML tag. (Anti pattern, should be avoided in prod.)
+3. Add as a property to an HTML tag. (Anti pattern, should be avoided in prod. There are some exceptions which we will cover later.)
 ```html
 <div style="margin-top: 20px;">Footer</div>
 ```
